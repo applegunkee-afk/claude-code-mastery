@@ -1,0 +1,9 @@
+{
+    "plansDirectory": ".claude/plan",
+    "model": "Haiku 4.5",
+    "permissions": {
+        "deny": [
+            "Bash(git *)"
+        ]
+    }
+}
